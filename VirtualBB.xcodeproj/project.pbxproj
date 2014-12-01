@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					F2D36ACD1A2D132700A47B9A = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 2QT42FZAH3;
 					};
 					F2D36AE61A2D132700A47B9A = {
 						CreatedOnToolsVersion = 6.1;
